@@ -10,3 +10,7 @@ body {
   padding: 5px;
   margin: 10px 0;
 }
+
+.horiz-links span {
+  margin: 0 5px;
+}
