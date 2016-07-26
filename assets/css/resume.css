@@ -10,7 +10,17 @@
   font-size: larger;
 }
 
-.education h3 {
+.resume h3 {
   margin-bottom: .5em;
 }
 
+.dates {
+  font-weight: 300;
+  float: right;
+}
+
+@media (max-width: 600px) {
+  .dates {
+    float: none;
+  }
+}
