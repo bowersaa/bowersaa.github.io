@@ -14,6 +14,10 @@ body {
   margin: 10px 0;
 }
 
+.tile {
+  min-height: 30em;
+}
+
 .horiz-items span {
   padding-right: 10px;
 }
