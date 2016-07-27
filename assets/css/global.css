@@ -14,16 +14,24 @@ body {
   margin: 10px 0;
 }
 
-.horiz-links span {
+.horiz-items span {
   padding-right: 10px;
 }
 
-.horiz-links span:after {
-  content: '|';
+.horiz-items span:after {
+  content: "•";
   color: gray;
   padding-left: 10px;
 }
 
-.horiz-links span:last-child:after {
+.horiz-items span:last-child:after {
   content: none;
+}
+
+.right {
+  text-align: right;
+}
+
+.text-bottom {
+  vertical-align: text-bottom;
 }
