@@ -2,7 +2,7 @@
   padding: 10px;
 }
 
-.basic-info, .education {
+.basic-info, .education, .experience {
   padding: 0 10px;
 }
 
@@ -14,7 +14,7 @@
   font-weight: 300;
 }
 
-.education hr {
+hr {
   padding: 10px 0;
 }
 
