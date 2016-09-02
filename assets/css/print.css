@@ -1,0 +1,15 @@
+@media print {
+   body {
+    font-size: smaller;
+   }
+
+   .card {
+    border-bottom: 1px solid black;
+    border-radius: 0;
+    padding: 0;
+    margin: 5px 0;
+   }
+  .card:last-of-type{
+    border-bottom: none;
+   }
+}
