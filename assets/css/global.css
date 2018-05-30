@@ -1,13 +1,14 @@
 body {
-  background-color: blueviolet;
+  background-color: #DCB9E4;
   font-family: 'Raleway', sans-serif;
-  background: -moz-linear-gradient(-45deg, blue 0%, blueviolet 35%, violet 100%);
-  background: -webkit-linear-gradient(-45deg, blue 0%, blueviolet 35%, violet 100%);
-  background: linear-gradient(135deg, blue 0%, blueviolet 35%, violet 100%);
+  background: -moz-linear-gradient(75deg, #DCB9E4 50%, #8FDCD7 51%);
+  background: -webkit-linear-gradient(75deg, #DCB9E4 50%, #8FDCD7 51%);
+  background: linear-gradient(75deg, #DCB9E4 50%, #8FDCD7 51%);
 }
 
 .card {
-  background-color: ghostwhite;
+  color: #403E3F;
+  background-color: #F9F1E8;
   border-radius: 5px;
   box-shadow: 0 1px 2px 0 rgba(0,0,0,.25);
   padding: 15px;
