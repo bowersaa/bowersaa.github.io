@@ -12,4 +12,7 @@
   .card:last-of-type{
     border-bottom: none;
    }
+  .horiz-items span:before {
+    display: inline;
+  }
 }
